@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stat>
+    <hist title="Гистограмма" y-max="20">
+        <block label="5"/>
+        <block label="12"/>
+        <block label="11"/>
+        <block label="18"/>
+        <block label="4"/>
+    </hist>
+</stat>
